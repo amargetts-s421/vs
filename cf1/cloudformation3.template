@@ -1,0 +1,14 @@
+﻿{
+	"AWSTemplateFormatVersion" : "2010-09-09",
+
+	"Description" : "new3 2142",
+
+	"Parameters" : {
+	},
+
+	"Resources" : {
+	},
+
+	"Outputs" : {
+	}
+}
