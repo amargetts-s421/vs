@@ -27,6 +27,9 @@
     <Compile Include="cloudformation2.template">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="yet another.template">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
   </PropertyGroup>
