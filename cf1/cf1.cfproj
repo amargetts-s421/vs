@@ -18,6 +18,9 @@
     <Compile Include="cloudformation.template">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="cloudformation1222.template">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="cloudformation15.template">
       <SubType>Code</SubType>
     </Compile>
